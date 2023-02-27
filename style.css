@@ -100,20 +100,3 @@ ul{
   font-size: .8rem;
   opacity: .8;
 }
-@media (min-width: 720px){
-  #card {
-    width: 550px;
-    height: 400px;
-  }
-#top-section{
-  height:45%;
- }
-#bottom-section{
-  height:55%; 
-}
-  #bottom-left-section, #bottom-rigth-section{
-   width: 50%; 
-   display: inline-block;
-   height:100%;
-  }
-}
