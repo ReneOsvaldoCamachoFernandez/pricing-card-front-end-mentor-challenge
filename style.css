@@ -100,7 +100,7 @@ ul{
   font-size: .8rem;
   opacity: .8;
 }
-@media (min-width: 720px){
+@media (min-width: 722px){
   #card {
     width: 700px;
     height: 400px;
